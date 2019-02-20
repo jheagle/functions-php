@@ -1,0 +1,1 @@
+This is a collection of PHP functions I have created for some projects and don't want to forget.
